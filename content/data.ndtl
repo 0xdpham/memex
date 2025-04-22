@@ -1,4 +1,237 @@
 var DATABASE = `
+UNIX CHEATSHEET
+  LINK : https://wiki.xxiivv.com/site/unix.html
+  TYPE : article
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : tool
+  
+LINUX CHEATSHEET
+  LINK : https://wiki.xxiivv.com/site/linux.html
+  TYPE : article
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : tool
+  
+COMMAND LINE CHEATSHEET
+  LINK : https://kokorobot.ca/site/spellbook.html
+  TYPE : links
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : tool
+ 
+SEARCH ENGINE THATS NOT GOOGLE
+  LINK : https://wiby.me/
+  TYPE : links
+  DATE : 12025-04-21
+  DONE : false
+  
+ELECTRICAL ENGINEERING GUIDE
+  LINK : https://www.otherpower.com/young-engineers-guide
+  TYPE : guide
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : tool
+  
+THE GRAND UNIFIED THEORY OF DOCUMENTATION
+  LINK : https://docs.divio.com/documentation-system/
+  TYPE : article
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : documentation
+
+A LIST OF CURATED WEBSITE LINKS
+  LINK : https://wiki.xxiivv.com/site/directory.html
+  TYPE : list
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : tool
+
+ONLINE ARCHIVE OF CRITICAL WRITING ABOUT DESIGN
+  LINK : https://www.readingdesign.org/index-1
+  TYPE : list
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : archive, blog, writing
+  
+TWO HUNDRED FIFTY THINGS AN ARCHITECT SHOULD KNOW  
+  LINK : https://www.readingdesign.org/250-things
+  TYPE : article
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : blog, writing, list
+
+HOW TO MAKE SENSE OF ANY MESS
+  LINK : https://www.howtomakesenseofanymess.com/
+  TYPE : article
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : blog, writing, list
+  
+FROM VOTES TO VOLATILITY PREDICTING THE STOCK MARKET ON ELECTION DAY
+  LINK : https://arxiv.org/pdf/2412.11192
+  TYPE : article
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : arXiv
+  
+WIKI DIGITAL PLAYGROUND AND PERSONAL LOGGING SYSTEM
+  LINK : https://wiki.xxiivv.com/site/varvara.html
+  TYPE : website
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : inspiration
+  PROJ : memex
+
+EXTRACT ALPHA QUANT MODEL
+  LINK : https://extractalpha.com/solutions/#datasets
+  TYPE : website
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : tool
+  PROJ : finance
+  
+EUCLIDEAN TECHNOLOGIES INVESTMENT MODELS
+  LINK : https://www.euclidean.com/research-papers-new
+  TYPE : article
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : inspiration, machine learning, ETF
+  PROJ : finance
+  
+BUILDING MODEL WITH WHARTON RESEARCH DATA SERVICE (WRDS)
+  LINK : https://github.com/euclidjda/deep-quant
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : models, git
+  PROJ : finance
+
+REVERSE IMAGE SEARCHING
+  LINK : https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/
+  LINK : https://yandex.com/images
+  LINK : https://www.bing.com/images
+  LINK : https://images.google.com/
+  LINK : https://images.google.com/
+  LINK : https://tineye.com/
+  TYPE : article
+  TAGS : tool
+  DATE : 12025-04-14
+  DONE : false
+  
+REK BELL HOW TO 
+  LINK : https://kokorobot.ca/site/how-to.html 
+  LINK : https://kokorobot.ca/site/pandoc.html
+  LINK : https://imagemagick.org/script/import.php
+  TYPE : guide
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : image optimize, pandoc
+  
+INSPIRATION
+  LINK : https://100r.co/site/adelie.html
+  LINK : https://100r.co/site/resources.html
+  LINK : https://100r.co/site/victoria_to_sitka_logbook.html  
+  LINK : https://ritualdust.com/about/bookmarks/
+  TYPE : website
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : inspiration 
+  
+INSPIRATION
+  LINK : https://100r.co/site/victoria_to_sitka_logbook.html
+  TYPE : website
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : reading  
+
+SATELLITE IMAGERY
+  LINK : https://www.bellingcat.com/resources/2025/01/10/satellite-imagery-bands-guide/?utm_source=discord
+  TYPE : article
+  TAGS : guide
+  DATE : 12025-04-14
+  DONE : false
+  
+WHITE BISON RANCH
+  LINK : https://www.whitebison-ranch.com/
+  TYPE : website
+  DATE : 12025-04-21
+  DONE : true
+  TAGS : business
+  
+BEAUTIFUL SCREENSHOTS OF YOUR CODE
+  LINK : https://ray.so/
+  TYPE : website
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : tool 
+
+PRONATED FEET MECHANICS
+  LINK : https://www.conorharris.com/blog/how-to-fix-flat-feet
+  TYPE : article
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : tool, health
+
+GET YOUR STOCKCHARTS
+  LINK : https://stockcharts.com/freecharts/
+  TYPE : website
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : stock 
+
+CIRCUIT CALCULATORS
+  LINK : https://www.allaboutcircuits.com/tools/
+  TYPE : website
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : tool 
+  
+IMAGE SCRUBBER
+  LINK : https://everestpipkin.github.io/image-scrubber/
+  LINK : https://everest-pipkin.com/#
+  TYPE : website
+  DATE : 12025-04-22
+  DONE : false
+  TAGS : tool   
+
+PLOTTING MANDELBROT SET
+  LINK : https://jonisalonen.com/2013/lets-draw-the-mandelbrot-set/
+  LINK : https://paste.sr.ht/~rabbits/38646ab41e88d52db9a53cd9971c78af55e45fa0
+  TYPE : article
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : fractals
+  PROJ : math
+
+THE DARK FOREST THEORY OF THE INTERNET
+  LINK : https://blokmagazine.com/the-dark-forest-theory-of-the-internet/
+  TYPE : article
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : readinghttps://www.lulu.com/resources
+
+FOLDING FLAT ORIGAMI
+  LINK : https://pi.math.cornell.edu/~zakh/crease-patterns.pdf
+  TYPE : article
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : oragami, art
+  
+LULU SELF PUBLISHING RESOURCE
+  LINK : https://www.lulu.com/resources
+  TYPE : website
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : resource
+
+SIMULATED SLIDE RULER
+  LINK : https://www.antiquark.com/sliderule/sim/n909es/virtual-n909-es.html
+  LINK : https://sliderulemuseum.com/SR_Course.shtml
+  TYPE : tool
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : tool
+ 
 RASPBERRY PI BISON CAMERA
   PERS : faun
   SRCE : Merveilles
@@ -43,103 +276,19 @@ HUGGING FACE
   DATE : 12025-04-14
   TAGS : website, platform, AI/ML
   NOTE : Platform for the machine learning community to share models, datasets, and applications. 
-  DONE : false
-
-REVERSE IMAGE SEARCHING
-  LINK : https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/
-  LINK : https://yandex.com/images
-  LINK : https://www.bing.com/images
-  LINK : https://images.google.com/
-  LINK : https://images.google.com/
-  LINK : https://tineye.com/
-  TYPE : article
-  TAGS : tool
-  DATE : 12025-04-14
-  DONE : false
-
-SATELLITE IMAGERY
-  LINK : https://www.bellingcat.com/resources/2025/01/10/satellite-imagery-bands-guide/?utm_source=discord
-  TYPE : article
-  TAGS : guide
-  DATE : 12025-04-14
-  DONE : false
-  
-WHITE BISON RANCH
-  LINK : https://www.whitebison-ranch.com/
-  TYPE : website
-  DATE : 12025-04-21
-  DONE : true
-  TAGS : business
-  
-BEAUTIFUL SCREENSHOTS OF YOUR CODE
-  LINK : https://ray.so/
-  TYPE : website
-  DATE : 12025-04-21
-  DONE : false
-  TAGS : tool 
-
-PRONATED FEET MECHANICS
-  LINK : https://www.conorharris.com/blog/how-to-fix-flat-feet
-  TYPE : article
-  DATE : 12025-04-21
-  DONE : false
-  TAGS : tool 
-
-PRONATED FEET MECHANICS
-  LINK : https://stockcharts.com/freecharts/
-  TYPE : website
-  DATE : 12025-04-21
-  DONE : false
-  TAGS : stock 
-
-CIRCUIT CALCULATORS
-  LINK : https://www.allaboutcircuits.com/tools/
-  TYPE : website
-  DATE : 12025-04-21
-  DONE : false
-  TAGS : tool 
-  
-FROM VOTES TO VOLATILITY PREDICTING THE STOCK MARKET ON ELECTION DAY
-  LINK : https://arxiv.org/pdf/2412.11192
-  TYPE : article
-  DATE : 12025-04-21
-  DONE : false
-  TAGS : arXiv
-  
-WIKI DIGITAL PLAYGROUND AND PERSONAL LOGGING SYSTEM
-  LINK : https://wiki.xxiivv.com/site/varvara.html
-  TYPE : website
-  DATE : 12025-04-21
-  DONE : false
-  TAGS : inspiration
-  PROJ : memex
-
-EXTRACT ALPHA QUANT MODEL
-  LINK : https://extractalpha.com/solutions/#datasets
-  TYPE : website
-  DATE : 12025-04-21
-  DONE : false
-  TAGS : tool
-  PROJ : finance
-  
-EUCLIDEAN TECHNOLOGIES INVESTMENT MODELS
-  LINK : https://www.euclidean.com/research-papers-new
-  TYPE : article
-  DATE : 12025-04-21
-  DONE : false
-  TAGS : inspiration, machine learning, ETF
-  PROJ : finance
-  
-BUILDING MODEL WITH WHARTON RESEARCH DATA SERVICE (WRDS)
-  LINK : https://github.com/euclidjda/deep-quant
-  DATE : 12025-04-21
-  DONE : false
-  TAGS : models, git
-  PROJ : finance
+  DONE : false 
     
- 
 
+HUGGING FACE
+  LINK : https://www.gordoni.com/effective-altruism/stock-options.html
+  TYPE : article
+  DATE : 12025-04-22
+  TAGS : finance, stock
+  NOTE : This article expands on Effective Altruism Investing Strategies by looking at the suitability of stock options for effective altruism investments.
+  DONE : false 
+    
 
+  
 
 PROC GEN RESEARCH
   LINK : http://pcgbook.com/
