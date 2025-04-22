@@ -98,6 +98,47 @@ CIRCUIT CALCULATORS
   DATE : 12025-04-21
   DONE : false
   TAGS : tool 
+  
+FROM VOTES TO VOLATILITY PREDICTING THE STOCK MARKET ON ELECTION DAY
+  LINK : https://arxiv.org/pdf/2412.11192
+  TYPE : article
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : arXiv
+  
+WIKI DIGITAL PLAYGROUND AND PERSONAL LOGGING SYSTEM
+  LINK : https://wiki.xxiivv.com/site/varvara.html
+  TYPE : website
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : inspiration
+  PROJ : memex
+
+EXTRACT ALPHA QUANT MODEL
+  LINK : https://extractalpha.com/solutions/#datasets
+  TYPE : website
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : tool
+  PROJ : finance
+  
+EUCLIDEAN TECHNOLOGIES INVESTMENT MODELS
+  LINK : https://www.euclidean.com/research-papers-new
+  TYPE : article
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : inspiration, machine learning, ETF
+  PROJ : finance
+  
+BUILDING MODEL WITH WHARTON RESEARCH DATA SERVICE (WRDS)
+  LINK : https://github.com/euclidjda/deep-quant
+  DATE : 12025-04-21
+  DONE : false
+  TAGS : models, git
+  PROJ : finance
+    
+ 
+
 
 
 PROC GEN RESEARCH
@@ -122,7 +163,6 @@ CSS VARIABLES
   DONE : true
   TAGS : web, code
   PROJ : Memex
-
 
 FPV MOD
   DATE : 12018-03-20
