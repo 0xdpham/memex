@@ -19,6 +19,45 @@ COMMAND LINE CHEATSHEET
   DATE : 12025-04-21
   DONE : false
   TAGS : tool
+  
+QUANTPEDIA
+  LINK : https://quantpedia.com/
+  TYPE : links
+  DATE : 12025-04-22
+  DONE : false
+  TAGS : tool
+  
+RPUBS
+  LINK : https://rpubs.com/FJRubio/
+  TYPE : examples
+  DATE : 12025-04-22
+  DONE : false
+  TAGS : scripts, R
+ 
+ 
+WORD CLOUDS
+  LINK : https://worditout.com/word-cloud/create
+  LINK : https://www.wordclouds.com/
+  LINK : https://tagcrowd.com/
+  TYPE : examples
+  DATE : 12025-04-23
+  DONE : false
+  TAGS : tool
+
+
+MODEL SIMULATIONS WITH PYTHON
+  LINK : https://www.quantstart.com/articles/vasicek-model-simulation-with-python/
+  LINK : https://www.quantstart.com/successful-algorithmic-trading-ebook/
+  LINK : https://tagcrowd.com/
+  TYPE : examples
+  DATE : 12025-04-23
+  DONE : false
+  TAGS : tool  
+ 
+ 
+ 
+ 
+ 
  
 SEARCH ENGINE THATS NOT GOOGLE
   LINK : https://wiby.me/
@@ -105,6 +144,57 @@ BUILDING MODEL WITH WHARTON RESEARCH DATA SERVICE (WRDS)
   DONE : false
   TAGS : models, git
   PROJ : finance
+  
+  
+FRACTIONAL BROWNIAN MOTION (fBm)
+  TYPE : model
+  DATE : 12025-04-22
+  TAGS : finance, stocks
+  TERM 
+    > Hurst exponent (H): "long-range dependence"
+    > Models: "stock prices, volatility, and market behaviors that exhibit memory or persistence"
+  NOTE 
+    > "H > 0.5, positive correlation, past increases make future increases - momentum.
+    - H < 0.5, negative correlation, past increases make future decreases - reversal strategies.
+    - Summary: Fractional Brownian Motion allows for memory. It applies to momentum 		 trading, mean-reversal models, and risk modeling in high-frequency trading."
+
+
+
+HURST EXPONENT (H)
+  TYPE : model
+  DATE : 12025-04-22
+  TAGS : finance, stocks
+  TERM 
+    > Models: "determines the roughness of the price path"
+    > H \approx 0.5 = Random walk (classical Brownian motion)
+    > H > 0.5 = Smoother, persistent paths (volatility clustering)
+    > H < 0.5 = Jagged, anti-persistent paths (sudden reversals)
+  NOTE 
+    > "USED: 
+    - Volatility modeling, rough volatility in option pricing (aka Rough Bergomi Model)
+    - Risk-adjusted return forecasting."
+
+
+
+
+DAVIES-HARTE ALGORITHM
+  TYPE : model
+  DATE : 12025-04-22
+  TAGS : finance, stocks
+  TERM 
+    > Models: "simulates non-Markovian processes where memory matters."
+  NOTE 
+    > "Monte Carlo similations
+    - Backtesting strategies
+    - Stress testing portfolios.
+    - Summary: Davies-harte algorithm efficiently generates paths for fBm."
+
+
+They did not know it was impossible,
+so they did it.
+Mark Twain
+
+
 
 REVERSE IMAGE SEARCHING
   LINK : https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/
