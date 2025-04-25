@@ -189,11 +189,12 @@ DAVIES-HARTE ALGORITHM
     - Stress testing portfolios.
     - Summary: Davies-harte algorithm efficiently generates paths for fBm."
 
-
-They did not know it was impossible,
-so they did it.
-Mark Twain
-
+IGNORANCE IS BLISS
+  TYPE : quote
+  DATE : 12025-04-25
+  TAGS : quote
+  QOTE : 'They did not know it was impossible, so they did it.' - Mark Twain
+  DONE : false
 
 
 GUDHI PYTHON MODULES DOCUMENTATION
@@ -204,7 +205,13 @@ GUDHI PYTHON MODULES DOCUMENTATION
   TAGS : bioinformatics
   PROJ : bio
 
-
+DATAMAP: VISUALIZING DATA MATRICES IN BROWSER
+  LINK : https://github.com/gexijin/datamap
+  TYPE : github
+  DATE : 12025-04-25
+  DONE : false
+  TAGS : bioinformatics
+  PROJ : bio
 
 
 
@@ -326,6 +333,13 @@ LULU SELF PUBLISHING RESOURCE
   DATE : 12025-04-21
   DONE : false
   TAGS : resource
+  
+PANDAS COMMANDS
+  DATE : 12015-04-25
+  FILE : 12015-04-25_cheatsheet_pandas_commands.png
+  TYPE : image, cheatsheet
+  TAGS : image
+  NOTE : The basics: 1) Loading and viewing: read_csv(), head(), and info() give you a quick look at your data. 2) Selection tricks: Use loc[] for labels and iloc[] for positions to grab exactly what you need. 3) Missing data handling: dropna() and fillna() keep your data clean. 4) Data reshaping: groupby() and merge() help structure your data just right The power moves: 1) Quick stats: value_counts() and describe() for fast insights. 2) Filtering: query() for clean, readable conditions. 3) Column management: rename() and drop() to keep your dataframe tidy
 
 SIMULATED SLIDE RULER
   LINK : https://www.antiquark.com/sliderule/sim/n909es/virtual-n909-es.html
@@ -357,21 +371,7 @@ OH SHIT GIT
   DATE : 12025-04-14
   LINK : http://ohshitgit.com/
   TYPE : tool
-  TAGS : code, git
-  
-CREATE A WEBSITE
-  DATE : 12025-04-14
-  LINK : https://www.squarespace.com/
-  TYPE : tool
-  TAGS : website, platform, template
-
-BELLINGCAT
-  LINK : https://vimeo.com/5047563
-  TYPE : hack
-  DATE : 12025-04-14
-  TAGS : OSINT
-  QOTE : 'It's super inspiring in general, but he also presents a game he made to teach programming without the players realizing until it's too late and they're already wizards' - cblgh
-  DONE : false
+  TAGS : code
 
 HUGGING FACE
   LINK : https://huggingface.co/
@@ -382,7 +382,7 @@ HUGGING FACE
   DONE : false 
     
 
-HUGGING FACE
+STOCK-OPTIONS EFFECTIVE ALTRUISM INVESTING STRATEGY
   LINK : https://www.gordoni.com/effective-altruism/stock-options.html
   TYPE : article
   DATE : 12025-04-22
@@ -390,8 +390,6 @@ HUGGING FACE
   NOTE : This article expands on Effective Altruism Investing Strategies by looking at the suitability of stock options for effective altruism investments.
   DONE : false 
     
-
-  
 
 PROC GEN RESEARCH
   LINK : http://pcgbook.com/
