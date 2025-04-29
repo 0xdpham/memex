@@ -142,9 +142,40 @@ BUILDING MODEL WITH WHARTON RESEARCH DATA SERVICE (WRDS)
   LINK : https://github.com/euclidjda/deep-quant
   DATE : 12025-04-21
   DONE : false
-  TAGS : models, git
+  TAGS : models, github
   PROJ : finance
   
+HOW TO BUILD A WEBSITE
+  LINK : https://landchad.net/ 
+  DATE : 12025-04-28
+  DONE : false
+  TAGS : models, git
+  PROJ : tool
+  
+PORTFOLIO INVESTMENTS
+  LINK : https://greylock.com/
+  LINK : https://www.signalfire.com/portfolio
+  LINK : bloombergbeta.com/portfolio	
+  LINK : homebrew.co/portfolio	
+  LINK : https://www.villageglobal.vc/portfolio
+  LINK : https://github.com/Bloomberg-Beta/I
+  DATE : 12025-04-28
+  DONE : false
+  TAGS : vc
+  PROJ : inspiration
+
+  
+LOGITECH G915 TKL KEYBOARD
+  LINK : https://womanonrails.com/logitech-g915-tkl
+  DATE : 12025-04-28
+  DONE : false
+  PROJ : tool  
+
+DIFFERENCE BETWEEN ENTJ AND ENTP
+  LINK : https://www.stellarmaze.com/entp-vs-entj/
+  DATE : 12025-04-28
+  DONE : false
+  TAGS : mbti
   
 FRACTIONAL BROWNIAN MOTION (fBm)
   TYPE : model
@@ -195,6 +226,9 @@ IGNORANCE IS BLISS
   TAGS : quote
   QOTE : 'They did not know it was impossible, so they did it.' - Mark Twain
   DONE : false
+  
+
+
 
 
 GUDHI PYTHON MODULES DOCUMENTATION
@@ -212,6 +246,21 @@ DATAMAP: VISUALIZING DATA MATRICES IN BROWSER
   DONE : false
   TAGS : bioinformatics
   PROJ : bio
+
+PANDAS COMMANDS
+  DATE : 12015-04-25
+  FILE : 12015-04-25_cheatsheet_pandas_commands.png
+  TYPE : image, cheatsheet
+  TAGS : image
+  NOTE : The basics: 1) Loading and viewing: read_csv(), head(), and info() give you a quick look at your data. 2) Selection tricks: Use loc[] for labels and iloc[] for positions to grab exactly what you need. 3) Missing data handling: dropna() and fillna() keep your data clean. 4) Data reshaping: groupby() and merge() help structure your data just right The power moves: 1) Quick stats: value_counts() and describe() for fast insights. 2) Filtering: query() for clean, readable conditions. 3) Column management: rename() and drop() to keep your dataframe tidy.
+
+WHEN IS GENERATIVE MARKETING IS HELPFUL?
+  LINK : https://www.tofuhq.com/generative-marketing
+  TYPE : websitee
+  DATE : 12025-04-29
+  DONE : false
+  TAGS : vc
+
 
 
 
@@ -334,12 +383,6 @@ LULU SELF PUBLISHING RESOURCE
   DONE : false
   TAGS : resource
   
-PANDAS COMMANDS
-  DATE : 12015-04-25
-  FILE : 12015-04-25_cheatsheet_pandas_commands.png
-  TYPE : image, cheatsheet
-  TAGS : image
-  NOTE : The basics: 1) Loading and viewing: read_csv(), head(), and info() give you a quick look at your data. 2) Selection tricks: Use loc[] for labels and iloc[] for positions to grab exactly what you need. 3) Missing data handling: dropna() and fillna() keep your data clean. 4) Data reshaping: groupby() and merge() help structure your data just right The power moves: 1) Quick stats: value_counts() and describe() for fast insights. 2) Filtering: query() for clean, readable conditions. 3) Column management: rename() and drop() to keep your dataframe tidy
 
 SIMULATED SLIDE RULER
   LINK : https://www.antiquark.com/sliderule/sim/n909es/virtual-n909-es.html
