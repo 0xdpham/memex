@@ -34,7 +34,6 @@ RPUBS
   DONE : false
   TAGS : scripts, R
  
- 
 WORD CLOUDS
   LINK : https://worditout.com/word-cloud/create
   LINK : https://www.wordclouds.com/
@@ -44,7 +43,6 @@ WORD CLOUDS
   DONE : false
   TAGS : tool
 
-
 MODEL SIMULATIONS WITH PYTHON
   LINK : https://www.quantstart.com/articles/vasicek-model-simulation-with-python/
   LINK : https://www.quantstart.com/successful-algorithmic-trading-ebook/
@@ -53,11 +51,6 @@ MODEL SIMULATIONS WITH PYTHON
   DATE : 12025-04-23
   DONE : false
   TAGS : tool  
- 
- 
- 
- 
- 
  
 SEARCH ENGINE THATS NOT GOOGLE
   LINK : https://wiby.me/
@@ -164,7 +157,6 @@ PORTFOLIO INVESTMENTS
   TAGS : vc
   PROJ : inspiration
 
-  
 LOGITECH G915 TKL KEYBOARD
   LINK : https://womanonrails.com/logitech-g915-tkl
   DATE : 12025-04-28
@@ -189,8 +181,6 @@ FRACTIONAL BROWNIAN MOTION (fBm)
     - H < 0.5, negative correlation, past increases make future decreases - reversal strategies.
     - Summary: Fractional Brownian Motion allows for memory. It applies to momentum 		 trading, mean-reversal models, and risk modeling in high-frequency trading."
 
-
-
 HURST EXPONENT (H)
   TYPE : model
   DATE : 12025-04-22
@@ -204,9 +194,6 @@ HURST EXPONENT (H)
     > "USED: 
     - Volatility modeling, rough volatility in option pricing (aka Rough Bergomi Model)
     - Risk-adjusted return forecasting."
-
-
-
 
 DAVIES-HARTE ALGORITHM
   TYPE : model
@@ -227,10 +214,6 @@ IGNORANCE IS BLISS
   QOTE : 'They did not know it was impossible, so they did it.' - Mark Twain
   DONE : false
   
-
-
-
-
 GUDHI PYTHON MODULES DOCUMENTATION
   LINK : https://gudhi.inria.fr/python/latest/index.html
   TYPE : website
@@ -269,7 +252,6 @@ LOGO GENERATORS
   DATE : 12025-04-29
   DONE : false
   TAGS : tool
-
 
 REVERSE IMAGE SEARCHING
   LINK : https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/
@@ -364,8 +346,7 @@ GEOMETRY CALCULATORS
   DATE : 12025-05-7
   DONE : false
   TAGS : tool  
-  
-  
+
 RAPID TABLES CALCULATORS
   LINK : https://www.rapidtables.com/calc/math/index.html
   LINK : https://www.wolframalpha.com/
@@ -445,6 +426,13 @@ IDENTIFYING FONT ON A WEBSITE
   DATE : 12025-05-7
   DONE : false
   TAGS : tool, blog
+
+NFT GENERATOR
+  LINK : https://github.com/Jon-Becker/nft-generator-py
+  TYPE : website
+  DATE : 12025-05-7
+  DONE : false
+  TAGS : tool 
   
 BLOG BY WILL SCHENK HOW TO
   LINK : https://willschenk.com/howto/
@@ -454,13 +442,6 @@ BLOG BY WILL SCHENK HOW TO
   TAGS : tool, blog
   NOTE : Rank A, useful productive blog
 
-NFT GENERATOR
-  LINK : https://github.com/Jon-Becker/nft-generator-py
-  TYPE : website
-  DATE : 12025-05-7
-  DONE : false
-  TAGS : tool 
-
 BLOG BY VICTOR DORNEANU SECURITY DEV
   LINK : https://brainfck.org/topics/
   TYPE : website
@@ -468,7 +449,74 @@ BLOG BY VICTOR DORNEANU SECURITY DEV
   DONE : false
   TAGS : tool, blog 
   NOTE : Rank C, random Zettelkasten blog
-  
+
+BLOG BY MILAN CVITKOVIC NEUROTECH
+  LINK : https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/?utm_source=guzey&utm_medium=email
+  TYPE : website
+  DATE : 12025-05-8
+  DONE : false
+  TAGS : tool, blog 
+  NOTE : Rank C, random
+
+BLOG BY ARI RUBINSZTEJN AEROSPACE NASA
+  LINK : https://gereshes.com/
+  TYPE : website
+  DATE : 12025-05-8
+  DONE : false
+  TAGS : blog, inspiration 
+  NOTE : Rank A, showcase skills, cv.
+
+SUBSTACK - COMPOUNDING QUALITY
+  LINK : https://substack.com/home/post/p-161285850
+  TYPE : website
+  DATE : 12025-05-8
+  DONE : false
+  TAGS : blog, substack
+  NOTE : Article Best Buys in May 2025, mentions companies that can't be found within the portfolio.
+
+CNN FEAR & GREED INDEX
+  TYPE : website
+  LINK : https://edition.cnn.com/markets/fear-and-greed
+  TAGS : index
+  DONE : true
+  NOTE : CNN Fear & Greed Index is used to gauge the mood of the market.
+
+CUSTOM AI AGENTS 
+  TYPE : website
+  LINK : https://you.com/agents
+  TAGS : tool
+  DONE : true
+  NOTE : The place to learn how to build and deploy AI solutions in the enterprise. 50,000 custom agents. From SQL generator to Sales emailer to SEO content crafter to content writer. 
+
+CHAINLINK SMART CONTRACT TO BLOCKCHAIN
+  TYPE : website
+  LINK : https://chainlinklabs.com/research
+  TAGS : tool
+  DONE : true
+  NOTE : Connect your smart contract on any blockchain, Chainlink is a decentralized oracle networks for any smart contract and aims to be the standard.
+
+
+
+
+
+
+
+PAYONEER - TRANSACTION COMPANY
+  LINK : https://investor.payoneer.com/stock-info/stock-quote-chart
+  TYPE : example
+  DATE : 12025-05-8
+  TAGS : inspiration, finance
+  NOTE : Provides charts and tools to do technical analysis on the stock PAYO, and Quarterly, Annuals and SEC filings.
+
+WIKISOCION TYPE THEORY
+  LINK : https://wikisocion.github.io/content/vocabulary.html
+  LINK : https://wikisocion.github.io/content/profile_reinin.html#esi-dreiser
+  LINK : https://wikisocion.github.io/content/profile_meged.html#sei-dumas
+  LINK : https://www.sociotype.com/
+  TYPE : examples
+  DATE : 12025-05-8
+  DONE : false
+
 IMAGE SCRUBBER
   LINK : https://everestpipkin.github.io/image-scrubber/
   LINK : https://everest-pipkin.com/#
@@ -507,7 +555,6 @@ LULU SELF PUBLISHING RESOURCE
   DONE : false
   TAGS : resource
   
-
 SIMULATED SLIDE RULER
   LINK : https://www.antiquark.com/sliderule/sim/n909es/virtual-n909-es.html
   LINK : https://sliderulemuseum.com/SR_Course.shtml
@@ -539,16 +586,7 @@ OH SHIT GIT
   LINK : http://ohshitgit.com/
   TYPE : tool
   TAGS : code
-
-HUGGING FACE
-  LINK : https://huggingface.co/
-  TYPE : platform
-  DATE : 12025-04-14
-  TAGS : website, platform, AI/ML
-  NOTE : Platform for the machine learning community to share models, datasets, and applications. 
-  DONE : false 
     
-
 STOCK-OPTIONS EFFECTIVE ALTRUISM INVESTING STRATEGY
   LINK : https://www.gordoni.com/effective-altruism/stock-options.html
   TYPE : article
@@ -557,7 +595,6 @@ STOCK-OPTIONS EFFECTIVE ALTRUISM INVESTING STRATEGY
   NOTE : This article expands on Effective Altruism Investing Strategies by looking at the suitability of stock options for effective altruism investments.
   DONE : false 
     
-
 PROC GEN RESEARCH
   LINK : http://pcgbook.com/
   TYPE : book
@@ -648,7 +685,6 @@ CSS UTIL CLASSES
   DATE : 12018-07-19
   TAGS : code, web
  
-
 KNOWLEDGE WIKI
   PERS : Josh
   SRCE : Merveilles
@@ -713,6 +749,15 @@ VAN NERVOUS SYSTEM
   FILE : 12018-07-05_vns.jpg
   NOTE : Power distribution unit of self built RV IoT system.
   LINK : https://github.com/kormyen/VNS
+
+EMERGENCY NAVIGATION
+  DATE : 12018-08-21
+  TYPE : book
+  TAGS : boat, env
+  NOTE 
+    > 'Emergency navigation' (1989)
+    > "He outlines ancient Polynesian and Arab navigation methods, which I used to love to practice when on watch at night. It's a book that might take you 30 years to master. it's an old book, new copies are for sale at $950, whilst used ones can be found for $0.01. I have a digital and print version. I'd LOVE to practice these skills on another Pacific trip, or two. He outlines methods using an old bit of stick with some string (a kamal) for measuring angles. And your fingers. And they work!!!"
+  AUTH : David Burch
 
 
 SSL EXPLAINED
@@ -805,7 +850,6 @@ META KNOWLEDGE
   TAGS : inspiration, history, psychology, science, ai, code, env
   REVI : true
 
-
 P2P LINKS
   DATE : 12018-08-31
   LINK : https://docs.google.com/spreadsheets/d/1LFbflHSdTLqCDc0fio10cVKuuMQdG9qPJ4B7nmpIH5M/edit#gid=0
@@ -823,13 +867,11 @@ CRYPTOSPHERE PHILOSOPHY
   SRCE : SSB
   TAGS : p2p, philosophy
 
-
 SOLAR ORNAMENTING
   DATE : 12018-08-31
   LINK : https://www.e-flux.com/architecture/positions/191258/is-ornamenting-solar-panels-a-crime/
   TYPE : article
   TAGS : solarpunk
-
 
 REGENERATIVE ECONOMIC THEORY
   DATE : 12018-10-05
@@ -840,7 +882,6 @@ REGENERATIVE ECONOMIC THEORY
   LINK : https://www.youtube.com/watch?v=YMCcoKXh3K0
   FILE : 12018-10-05_regencap.pdf
 
-
 TRACER BN COMMS
   DATE : 12018-10-23
   TYPE : tool
@@ -850,7 +891,6 @@ TRACER BN COMMS
     > https://github.com/toggio/PhpEpsolarTracer
   PROJ : Solar, Van
   TAGS : electronics, solar
-
 
 THREEJS PARTICLES
   DATE : 12018-11-01
@@ -866,7 +906,6 @@ CSS LOADERS
   PROJ : Memex, web
   TYPE : list
   TAGS : web, design, code, inspiration
-
 
 LICENSING
   LINK
@@ -888,8 +927,6 @@ PV WIRING
     > ["Pairs should be together in the same raceway/conduit/bundled together."](https://forum.solar-electric.com/discussion/22145/bundling-dc-cabling-together-through-plastic-electrical-conduit)
     - I assume 'pairs' mean pairs of positive and negative.
     > ["cables that are bundled together generate a cumulative amount of heat, and have more difficulty dissipating that heat than when they are run individually. This is something to be aware of, but the relevant ABYC standard only applies to wiring carrying 50 volts or more, so it is typically a problem with AC circuits on a boat, not your typical 12 volt DC wiring installation. In general, if three conductors are bundled, reduce maximum amperage by 30%. If four to six conductors are bundled, reduce maximum amperage by 40%. If seven to 24 conductors are bundled, reduce amperage by 50%."](https://www.westmarine.com/WestAdvisor/Marine-Wire-Terminal-Tech-Specs)
-
-
 
 BLOCKCHAIN EXPLAIN
   DATE : 12018-11-06
@@ -921,7 +958,6 @@ GIT SQUASH
   DATE : 12018-11-06
   LINK : https://github.com/todotxt/todo.txt-android/wiki/Squash-All-Commits-Related-to-a-Single-Issue-into-a-Single-Commit
   TAGS : code, git
-
 
 RUNNER SKETCH PLUGIN
   DATE : 2018-11-13
@@ -1028,7 +1064,6 @@ RABBIT HOLES
     > "having a platform to create rich content(read context) has made the stories grow
     & and created an interaction with people that wasn't there before.
     & people grow attached to recurring characters, or worlds, and rabbit holes of content is a good way to create an attachment"
-
 
 CMAP SAILING CHARTS
   DATE : 12022-10-25
