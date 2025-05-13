@@ -22,7 +22,16 @@ COMMAND LINE CHEATSHEET
 
 FINVIZ
   LINK : https://finviz.com/map.ashx?t=sec
+  TYPE : website
   DATE : 12025-05-12
+  DONE : false
+  TAGS : finance
+
+FINANCIAL ENGINEERING AND RISK COURSE NOTES
+  LINK : https://martin-haugh.github.io/
+  TYPE : links
+  DATE : 12025-05-12
+  DONE : false
   TAGS : finance
 
 CREATE STUNNING VISUALS
@@ -48,7 +57,6 @@ DESIGN VISUALS
   DONE : false
   TAGS : lists
   NOTE : Case info and docket info for companies undergoing bankruptcy with Kroll Restructuring.
-
 
 QUANTPEDIA
   LINK : https://quantpedia.com/
