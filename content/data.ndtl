@@ -103,6 +103,14 @@ SEARCH ENGINE THATS NOT GOOGLE
   DATE : 12025-04-21
   DONE : false
   
+CLASS ACTION LAWSUITS LIST
+  LINK : https://www.classaction.org/database
+  LINK : https://topclassactions.com/search-results/
+  TYPE : links
+  DATE : 12025-05-16
+  DONE : false  
+
+  
 ELECTRICAL ENGINEERING GUIDE
   LINK : https://www.otherpower.com/young-engineers-guide
   TYPE : guide
@@ -844,11 +852,6 @@ BEST PRACTICES
   TAGS : code, inspiration
   TYPE : list
 
-THE ELEMENTS OF STYLE
-  DATE : 12018-08-21
-  TYPE : book
-  LINK : https://en.wikipedia.org/wiki/The_Elements_of_Style
-  TAGS : inspiration, design
 
 FRONT END DEV THOUGHTS
   DATE : 12018-08-21
@@ -1101,14 +1104,7 @@ SHARED STYLES
   TYPE : article
   LINK : https://medium.com/sketch-app-sources/using-shared-styles-and-symbols-in-sketch-8cab4650dc55
 
-RABBIT HOLES
-  DATE : 12018-11-28
-  PERS : neauoire
-  SRCE : Merveilles
-  QOTE
-    > "having a platform to create rich content(read context) has made the stories grow
-    & and created an interaction with people that wasn't there before.
-    & people grow attached to recurring characters, or worlds, and rabbit holes of content is a good way to create an attachment"
+
 
 CMAP SAILING CHARTS
   DATE : 12022-10-25
