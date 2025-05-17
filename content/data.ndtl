@@ -317,7 +317,6 @@ REVERSE IMAGE SEARCHING
   LINK : https://yandex.com/images
   LINK : https://www.bing.com/images
   LINK : https://images.google.com/
-  LINK : https://images.google.com/
   LINK : https://tineye.com/
   TYPE : article
   TAGS : tool
@@ -391,6 +390,16 @@ GET YOUR STOCKCHARTS
   DATE : 12025-04-21
   DONE : false
   TAGS : stock 
+
+CALCULATORS GALORE
+  LINK
+    > https://www.easycalculation.com/
+    > https://www.rapidtables.com/
+    > https://www.omnicalculator.com/math
+  TYPE : website
+  DATE : 12025-05-17
+  DONE : false
+  TAGS : tool, finance, math
 
 CIRCUIT CALCULATORS
   LINK : https://www.allaboutcircuits.com/tools/
