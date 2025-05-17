@@ -426,11 +426,12 @@ PATENT CHECKER ONLINE
   TAGS : tool    
   
 CYBER TOOLS
-  LINK : https://www.privacyguides.org/en/tools/
-  LINK : https://www.wigle.net/
-  LINK : https://radaris.com/
-  LINK : https://mxtoolbox.com/DnsLookup.aspx
-  LINK : https://browserleaks.com/
+  LINK
+    > https://www.privacyguides.org/en/tools/
+    > https://www.wigle.net/
+    > https://radaris.com/
+    > https://mxtoolbox.com/DnsLookup.aspx
+    > https://browserleaks.com/
   TYPE : website
   DATE : 12025-05-7
   DONE : false
@@ -554,11 +555,6 @@ CHAINLINK SMART CONTRACT TO BLOCKCHAIN
   TAGS : tool
   DONE : true
   NOTE : Connect your smart contract on any blockchain, Chainlink is a decentralized oracle networks for any smart contract and aims to be the standard.
-
-
-
-
-
 
 
 PAYONEER - TRANSACTION COMPANY
