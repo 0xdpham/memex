@@ -91,7 +91,6 @@ WORD CLOUDS
 MODEL SIMULATIONS WITH PYTHON
   LINK : https://www.quantstart.com/articles/vasicek-model-simulation-with-python/
   LINK : https://www.quantstart.com/successful-algorithmic-trading-ebook/
-  LINK : https://tagcrowd.com/
   TYPE : examples
   DATE : 12025-04-23
   DONE : false
@@ -432,6 +431,7 @@ CYBER TOOLS
     > https://radaris.com/
     > https://mxtoolbox.com/DnsLookup.aspx
     > https://browserleaks.com/
+    > https://tx-us-ping.vultr.com/
   TYPE : website
   DATE : 12025-05-7
   DONE : false
