@@ -481,6 +481,13 @@ SALARY DATABASE
   DONE : false
   TAGS : tool
 
+INVESTING PRO DASHBOARD
+  LINK : https://in.investing.com/pro/ideas/wilshire-advisors-llc
+  TYPE : tool
+  DATE : 12025-05-23
+  DONE : false
+  TAGS : tool, finance
+
 PYTHON SQL INTERPRETER CONSOLE
   LINK : https://code.cs61a.org/
   TYPE : website
@@ -592,7 +599,6 @@ CHAINLINK SMART CONTRACT TO BLOCKCHAIN
   TAGS : tool
   DONE : true
   NOTE : Connect your smart contract on any blockchain, Chainlink is a decentralized oracle networks for any smart contract and aims to be the standard.
-
 
 PAYONEER - TRANSACTION COMPANY
   LINK : https://investor.payoneer.com/stock-info/stock-quote-chart
