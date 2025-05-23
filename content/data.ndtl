@@ -217,6 +217,14 @@ EUCLIDEAN TECHNOLOGIES INVESTMENT MODELS
   DONE : false
   TAGS : inspiration, machine learning, ETF
   PROJ : finance
+
+INVESTINGPRO DASHBOARD
+  LINK : https://in.investing.com/pro/ideas/wilshire-advisors-llc
+  TYPE : tool
+  DATE : 12025-05-23
+  DONE : false
+  TAGS : tool, finance
+  NOTE : Comprehensive dashboard, SEC recent reports, 13F filings, holdings summary.
   
 BUILDING MODEL WITH WHARTON RESEARCH DATA SERVICE (WRDS)
   LINK : https://github.com/euclidjda/deep-quant
