@@ -237,8 +237,10 @@ ARCH NEIL THOMAS NYC GAGGENAU
   TAGS : home, kitchen
 
 LOOKUP VEHICLE VIN
-  LINK : https://www.nhtsa.gov/
-  TYPE : lINK
+  LINK
+    > https://www.nhtsa.gov/
+    > https://www.vinaudit.com/
+  TYPE : link
   DATE : 12025-06-17
   DONE : false
   TAGS : website
