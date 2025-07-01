@@ -165,7 +165,6 @@ LAW
   LINK : https://www.law.cornell.edu/
   LINK : https://opencontracts.opensource.legal/documents/
   LINK : https://www.sec.gov/search-filings
-  LINK : https://www.sec.gov/Archives/edgar/data/1645666/000119312518173747/d428730dex42.htm
   TYPE : links
   DATE : 12025-05-20
   DONE : false  
@@ -184,11 +183,24 @@ PROPERTY APPRAISAL
 
 
 FLYHOMES AI
-  LINK: https://flyhomes.com/
+  LINK : https://flyhomes.com/
   TYPE : links
   DATE : 12025-07-01
   DONE : false
   TAGS : real estate
+
+
+EXAMPLE OF A REVOCABLE TRUST
+  LINK : https://www.sec.gov/Archives/edgar/data/1645666/000119312518173747/d428730dex42.htm
+  LINK : https://flyhomes.com/search/details/4215-lakeside-dr-dallas-tx-75219/56355191?
+  LINK : https://dallas.tx.publicsearch.us/
+  TYPE : links
+  DATE : 12025-07-1
+  DONE : false
+  TAGS : law, tax, trust
+
+
+
 
 COLOR DESIGNER CHAIRS
   LINK : https://us.seletti.it/collections/armchairs
