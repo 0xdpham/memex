@@ -219,6 +219,40 @@ NORTH TEXAS COUNCIL MAPS, MODELS & DATA
   TAGS : spatial data, aerial images, transportation maps, data
 
 
+DFW AIRPORT FROM MINEOLA
+  DATE : 12025-07-07
+  TYPE : directions
+  TAGS : transportation
+  TERM
+    > 1. Ride Amtrak Texas Eagle from Mineola into Dallas Union Station.
+    > 2. Ride DART Green/Blue/Red lines to DART Orange Rail.
+    > 3. Ride DART Orange to DFW Airport Terminal A.
+
+
+SEC FORM 4 INSTRUCTION 8
+  LINK : https://www.sec.gov/about/forms/form4data.pdf
+  TYPE : link
+  DATE : 12025-07-07
+  DONE : false
+  TAGS : finance, forms, SEC
+
+DFW AIRPORT FROM MINEOLA
+  DATE : 12025-07-07
+  TYPE : career
+  TAGS : list
+  TERM
+    > Regulatory agencies: SEC, FTC, DOJ Antitrust Division, FINRA
+    > Private firms: FTI Consulting, CRA, Cornerstone Research, Analysis Group
+    > Law firms: Gibson Dunn, Quinn Emanuel, Latham & Watkins (litigation teams)
+    > Big 4 firms: Deloitte, EY, PwC (forensics and regulatory compliance arms)
+    > Banks / Hedge Funds: Risk, compliance, or trade surveillance units
+    > Consulting firms: Cornerstone Research, Analysis Group, NERA, Bates White
+    > Law firms: Gibson Dunn, Quinn Emanuel, Paul Weiss
+    > eDiscovery vendors: DISCO, Relativity, KLDiscovery
+    > Agencies: SEC, FTC, DOJ Antitrust Division
+
+
+
 
 
 
