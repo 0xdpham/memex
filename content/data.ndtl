@@ -661,8 +661,10 @@ SEND ENCRYPTED DATA
   TAGS : tool, cyber
 
 
-SALARY DATABASE
-  LINK : https://h1bdata.info/index.php
+PAYROLL SALARY DATABASE
+  LINK
+    > https://h1bdata.info/index.php
+    > https://openpayrolls.com/
   TYPE : website
   DATE : 12025-05-7
   DONE : false
